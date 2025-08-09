@@ -36,7 +36,7 @@ namespace Coding.Exercise4
 
             Console.WriteLine($"Tallest building after {n} growth spurts: {tallest}");
 
-            Console.WriteLine("Final sorted building heights: ");
+            Console.WriteLine("Final  1 sorted building heights: ");
             foreach (int height in buildings)
             {
                 Console.Write(height + " ");
